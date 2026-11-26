@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  color: #000000;
+}
+
+.magazin {
+  max-width: 740px;
+  background-color: #eef2f6;
+}
+
+.produs {
+  width: 200px;
+  border-color: #8aa3c6;
+}
+
+.card-img-top {
+  height: 140px;
+}
+
+.buton {
+  color: white;
+  background-color: #7c6325;
+}
+
+.buton:hover {
+  color: white;
+  background-color: #66511e;
+}
